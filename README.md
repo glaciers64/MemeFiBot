@@ -1,4 +1,4 @@
-README in english available here [**here**](https://github.com/glaciers64/MemeFiBot/blob/main/README-EN.md)
+README in english available [**here**](https://github.com/glaciers64/MemeFiBot/blob/main/README-EN.md)
 # Support the Project
 
 If you find this project helpful and would like to support its continued development, please consider making a donation. Every contribution helps keep the project alive and growing!
