@@ -39,5 +39,5 @@ Your donations help:
 Thank you for your generosity and support! 🙏
 
 
-Contacts
+### Contacts
 For support or questions, you can contact me [![Static Badge](https://img.shields.io/badge/telegram-bot_author-link?style=for-the-badge&logo=telegram&logoColor=white&logoSize=auto&color=blue)](https://t.me/glacier6496)
