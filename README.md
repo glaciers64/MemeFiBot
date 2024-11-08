@@ -1,6 +1,6 @@
 [<img src="https://img.shields.io/badge/Telegram-%40Me-orange">](https://t.me/glacier6496)
 
-![img1](.github/images/demo.png)
+![img1](.github/images/Demo.PNG)
 
 README in english available [**here**](https://github.com/glaciers64/MemeFiBot/blob/main/README-EN.md)
 
