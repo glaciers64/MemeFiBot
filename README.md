@@ -2,6 +2,9 @@
 
 ![img1](.github/images/Demo.PNG)
 
+
+![img1](.github/images/Demo2.PNG)
+
 README in english available [**here**](https://github.com/glaciers64/MemeFiBot/blob/main/README-EN.md)
 
 ## Recommendation before use
