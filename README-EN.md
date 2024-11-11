@@ -32,7 +32,7 @@
 | **USE_TAP_BOT**          | Use the tap-bot (True / False) (eg [10,25])                                                                                |
 | **EMERGENCY_STOP**       | Use an emergency stop (True / False), if True - in case of a stop bot protocol error, so as not to get banned (eg [10,25]) |
 | **AUTO_COMPLETE_TASKS**  | Watch video (True / False)													|
-| **AUTO_SPIN**  | Spin automatically (True / False) (True / False)													|
+| **AUTO_SPIN**  | Spin automatically (True / False)													|
 
 ## Installation
 You can download [**Repository**](https://github.com/glaciers64/MemeFiBot.git) by cloning it to your system and installing the necessary dependencies:
