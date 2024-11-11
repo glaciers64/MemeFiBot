@@ -33,6 +33,10 @@
 | **AUTO_COMPLETE_TASKS**  | Watch video (True / False)													|
 
 ## Installation
+You can download [**Repository**](https://github.com/glaciers64/MemeFiBot.git) by cloning it to your system and installing the necessary dependencies:
+```shell
+~ >>> git clone https://github.com/glaciers64/MemeFiBot.git
+~ >>> cd MemeFiBot
 
 #Linux
 ~/MemeFiBot >>> python3 -m venv venv
@@ -46,7 +50,6 @@
 ~/MemeFiBot >>> python -m venv venv
 ~/MemeFiBot >>> venv\Scripts\activate
 ~/MemeFiBot >>> pip install -r requirements.txt
-~/MemeFiBot >>> pip install python-dateutil
 ~/MemeFiBot >>> copy .env-example .env
 ~/MemeFiBot >>> # Specify your API_ID and API_HASH, the rest is taken by default
 ~/MemeFiBot >>> python main.py
