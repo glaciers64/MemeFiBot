@@ -32,6 +32,7 @@ class Settings(BaseSettings):
     USE_TAP_BOT: bool = False
     EMERGENCY_STOP: bool = False
     AUTO_COMPLETE_TASKS: bool = True
+    AUTO_SPIN: bool = True
 
 
 settings = Settings()
