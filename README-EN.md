@@ -31,7 +31,7 @@
 | **USE_PROXY_FROM_FILE**  | Whether to use proxy from the `bot/config/proxies.txt` file (True / False)                                                 |
 | **USE_TAP_BOT**          | Use the tap-bot (True / False) (eg [10,25])                                                                                |
 | **EMERGENCY_STOP**       | Use an emergency stop (True / False), if True - in case of a stop bot protocol error, so as not to get banned (eg [10,25]) |
-| **AUTO_COMPLETE_TASKS**  | Watch video (True / False)			Whether to use proxy from the bot/config/video.json										|
+| **AUTO_COMPLETE_TASKS**  | Watch video (True / False)			Whether to use codes from the bot/config/video.json										|
 | **AUTO_SPIN**  | Spin automatically (True / False)													|
 
 ## Installation
